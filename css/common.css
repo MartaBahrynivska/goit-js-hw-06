@@ -23,7 +23,3 @@ button {
   cursor: pointer;
 }
 
-.gallery{
-  display: flex;
-  gap: 5px;
-}
